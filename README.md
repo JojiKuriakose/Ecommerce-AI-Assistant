@@ -20,12 +20,9 @@ The project implements an **agentic** e-commerce assistant using:
   - It supports complex, mixed-topic queries through agent collaboration.
   - It provides a complete development-ready stack with both frontend and backend components.
 ## Tech Stack
-- Frontend : Streamlit
-- Backend : Python, FastAPI
-- AI/Agent : Microsoft Foundry Agent Service
-- LLM : GPT 4.1
-- Cloud : Azure
-- Deployment : Azure App Service
+- Frontend: Streamlit
+- Backend: Python, FastAPI, uvicorn, Microsoft Foundry Agent Service, GPT 4.1
+- Deployment : Azure Web App
 ## Key Features
 - **Multi-Agent Orchestration**
   
